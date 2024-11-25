@@ -8,7 +8,7 @@ I am an aspiring Software Developer, who is passionate about creating , learning
 
 * 🌍  I'm based in Rustenburg
 * ✉️  You can contact me at [thapeloletsapa@gmail.com](mailto:thapeloletsapa@gmail.com)
-* 🧠  I'm learning HTML , CSS , JavaScript , React
+* 🧠  I'm learning HTML , CSS , JavaScript , React , Firebase , Git , MongoDb
 * ⚡  i wanna solve a huge world crisis through coding ..
 
 <a href="https://www.github.com/Thapeloletsapa" target="_blank" rel="noreferrer"><img
